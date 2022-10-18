@@ -11,6 +11,7 @@ int main()
     cout<<res<<endl;
 
     cout<<"what you need?"<<endl;
+    cout<<"2"<<endl;
 
     return 0;
 }
