@@ -8,7 +8,10 @@ struct TreeNode{
     TreeNode* lchild;
     TreeNode* rchild;
 };
-
+struct ListNode{
+    int data;
+    ListNode* next;
+};
 int main()
 {
     cout<<"hello c++ world!"<<endl;
