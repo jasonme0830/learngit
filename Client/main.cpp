@@ -1,8 +1,11 @@
 #include<iostream>
 
+
 using namespace std;
 
-int add(int a)
+int main()
 {
-    return a+1;
+
+
+    return 0;
 }
